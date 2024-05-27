@@ -64,12 +64,12 @@ Steam y YouTube son ejemplos prominentes de hibridación en el ámbito digital, 
 
 ## Referencias
 
-1. Steam Community Forums. (n.d.). Recuperado de [https://steamcommunity.com](https://steamcommunity.com)
-2. Steam Workshop. (n.d.). Recuperado de [https://steamcommunity.com/workshop/](https://steamcommunity.com/workshop/)
-3. Steam Cloud. (n.d.). Recuperado de [https://support.steampowered.com/kb_article.php?ref=6736-QEIG-8941](https://support.steampowered.com/kb_article.php?ref=6736-QEIG-8941)
-4. SteamVR. (n.d.). Recuperado de [https://store.steampowered.com/steamvr](https://store.steampowered.com/steamvr)
-5. YouTube Community. (n.d.). Recuperado de [https://www.youtube.com](https://www.youtube.com)
-6. YouTube Monetization. (n.d.). Recuperado de [https://support.google.com/youtube/answer/1311403?hl=en](https://support.google.com/youtube/answer/1311403?hl=en)
-7. YouTube Algorithms. (n.d.). Recuperado de [https://www.youtube.com/howyoutubeworks/product-features/search/](https://www.youtube.com/howyoutubeworks/product-features/search/)
-8. YouTube Live. (n.d.). Recuperado de [https://support.google.com/youtube/answer/2474026?hl=en](https://support.google.com/youtube/answer/2474026?hl=en)
+1. Steam Community Forums. (n.d.).[https://steamcommunity.com](https://steamcommunity.com)
+2. Steam Workshop. (n.d.).[https://steamcommunity.com/workshop/](https://steamcommunity.com/workshop/)
+3. Steam Cloud. (n.d.).  [https://support.steampowered.com/kb_article.php?ref=6736-QEIG-8941](https://support.steampowered.com/kb_article.php?ref=6736-QEIG-8941)
+4. SteamVR. (n.d.). [https://store.steampowered.com/steamvr](https://store.steampowered.com/steamvr)
+5. YouTube Community. (n.d.). [https://www.youtube.com](https://www.youtube.com)
+6. YouTube Monetization. (n.d.). [https://support.google.com/youtube/answer/1311403?hl=en](https://support.google.com/youtube/answer/1311403?hl=en)
+7. YouTube Algorithms. (n.d.). [https://www.youtube.com/howyoutubeworks/product-features/search/](https://www.youtube.com/howyoutubeworks/product-features/search/)
+8. YouTube Live. (n.d.). [https://support.google.com/youtube/answer/2474026?hl=en](https://support.google.com/youtube/answer/2474026?hl=en)
 
