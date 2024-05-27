@@ -29,7 +29,7 @@ Steam utiliza diversas tecnologías para mejorar la experiencia del usuario. La 
 - [Steam Official Site](https://store.steampowered.com)
 - [Steam Workshop](https://steamcommunity.com/workshop/)
 
-![Steam Interface](https://store.steampowered.com/public/images/v6/steam2023_home_hardware_2x.jpg)
+![Steam Interface](https://e.rpp-noticias.io/xlarge/2019/09/19/501250_842635.jpg)
 
 ## Ejemplo 2: YouTube
 
@@ -56,7 +56,7 @@ YouTube utiliza tecnologías avanzadas para mejorar la experiencia del usuario, 
 - [YouTube Official Site](https://www.youtube.com)
 - [YouTube Creators](https://www.youtube.com/creators)
 
-![YouTube Interface](https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube-logo-full_color_light.svg?cache=b9cf60f)
+![YouTube Interface](https://st2.depositphotos.com/20523356/48209/v/450/depositphotos_482097440-stock-illustration-isometric-video-player-youtube-pc.jpg)
 
 ## Conclusión
 
