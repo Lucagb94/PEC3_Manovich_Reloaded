@@ -62,3 +62,14 @@ YouTube utiliza tecnologías avanzadas para mejorar la experiencia del usuario, 
 
 Steam y YouTube son ejemplos prominentes de hibridación en el ámbito digital, cada uno combinando medios, tecnologías y prácticas culturales de maneras innovadoras. A través de "las gafas de Manovich", podemos ver cómo estas plataformas no solo han transformado sus respectivas industrias, sino que también han influido en la forma en que consumimos y creamos contenido digital.
 
+## Referencias
+
+1. Steam Community Forums. (n.d.). Recuperado de [https://steamcommunity.com](https://steamcommunity.com)
+2. Steam Workshop. (n.d.). Recuperado de [https://steamcommunity.com/workshop/](https://steamcommunity.com/workshop/)
+3. Steam Cloud. (n.d.). Recuperado de [https://support.steampowered.com/kb_article.php?ref=6736-QEIG-8941](https://support.steampowered.com/kb_article.php?ref=6736-QEIG-8941)
+4. SteamVR. (n.d.). Recuperado de [https://store.steampowered.com/steamvr](https://store.steampowered.com/steamvr)
+5. YouTube Community. (n.d.). Recuperado de [https://www.youtube.com](https://www.youtube.com)
+6. YouTube Monetization. (n.d.). Recuperado de [https://support.google.com/youtube/answer/1311403?hl=en](https://support.google.com/youtube/answer/1311403?hl=en)
+7. YouTube Algorithms. (n.d.). Recuperado de [https://www.youtube.com/howyoutubeworks/product-features/search/](https://www.youtube.com/howyoutubeworks/product-features/search/)
+8. YouTube Live. (n.d.). Recuperado de [https://support.google.com/youtube/answer/2474026?hl=en](https://support.google.com/youtube/answer/2474026?hl=en)
+
